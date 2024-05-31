@@ -1,14 +1,15 @@
-=== Plugin Name ===
+=== WC Products Per Page ===
 Contributors: wpfixfast
 Donate link: https://wpfixfast.com/
-Tags: woocommerce, products per page, woocommerce products, woocommerce products per page, products, per page
+Tags: woocommerce, products per page, woocommerce products, woocommerce products per page
 Requires at least: 4.0.0
+Requires PHP: 7.4
 Tested up to: 6.4.1
-Stable tag: 1.0
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Set default number of products displayed per page in WooCommerce shop pages. Allow customers to change 'products per page' via simple dropdown.
+Set default number of products displayed per page in WooCommerce shop pages.
 
 == Description ==
 
@@ -51,5 +52,10 @@ YES. This is an add-on only for WooCommerce.
 
 == Changelog ==
 
-= 1.0 May 31, 2024  =
+= 1.0.0 May 31, 2024  =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
 * Initial release
