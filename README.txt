@@ -1,0 +1,55 @@
+=== Plugin Name ===
+Contributors: wpfixfast
+Donate link: https://wpfixfast.com/
+Tags: woocommerce, products per page, woocommerce products, woocommerce products per page, products, per page
+Requires at least: 4.0.0
+Tested up to: 6.4.1
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Set default number of products displayed per page in WooCommerce shop pages. Allow customers to change 'products per page' via simple dropdown.
+
+== Description ==
+
+The WooCommerce Products Per Page plugin is a straightforward yet highly beneficial addition to your website, enabling both you to adjust the number of products displayed per page.
+
+<strong>Easy setup</strong>
+
+Once activated, the plugin is ready to use immediately. Simply set the default number of products in WooCommerce settings.
+
+> <strong>Brought to you by WP Fix Fast</strong><br>
+>
+> WP Fix Fast provides on-demand WordPress help and brings a wealth of expertise in JavaScript, HTML, CSS, as well as PHP, which enables us to solve any issue much faster than most WordPress support providers.
+>
+> * Your trusted WP support partner since 2018
+> * Average resolve time 30 minutes for most issues
+
+== BEST REASONS TO USE THIS ==
+
+* Quickly set default number of products per page shown on WooCommerce pages.
+
+== Installation ==
+
+= Install from WP Dashboard =
+  * Log into WP dashboard then click **Plugins** > **Add new** > Then under the title "Install Plugins" click **Upload** > **choose the zip** > **Activate the plugin!**
+
+= Install from FTP =
+  * Extract the zip file and drop the contents in the wp-content/plugins/ directory of your WP installation and then activate the Plugin from Plugins page. 
+
+= THAT IS IT: You're done! =
+
+== Frequently Asked Questions ==
+
+= Do I need WooCommerce plugin installed for this to work =
+
+YES. This is an add-on only for WooCommerce.
+
+== Screenshots ==
+
+1. This is the settings page within WooCommerce setting area
+
+== Changelog ==
+
+= 1.0 May 31, 2024  =
+* Initial release
