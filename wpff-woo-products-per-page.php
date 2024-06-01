@@ -4,16 +4,16 @@
  * The plugin bootstrap file
  *
  * This file is read by WordPress to generate the plugin information in the plugin
- * admin area. This file also initiates the plugin and contains necessary functions for WooCommerce filters.
+ * admin area. This file also initiates the plugin and contains necessary functions for filters.
  *
  * @link              https://wpfixfast.com
  * @since             1.0.0
  * @package           Wpff_Woo_Products_Per_Page
  *
  * @wordpress-plugin
- * Plugin Name:       WooCommerce Products per Page - WP Fix Fast
+ * Plugin Name:       WPFixFast Products per Page
  * Plugin URI:        https://wpfixfast.com
- * Description:       Enables you to set a default number of products per page on your WooCommerce store.
+ * Description:       Enables you to adjust the number of products displayed per page in WooCommerce shop pages.
  * Version:           1.0.0
  * Author:            WP Fix Fast
  * Author URI:        https://wpfixfast.com/
@@ -99,7 +99,7 @@ function wpff_check_requirements() {
 
 function wpff_missing_wc_notice() { 
   $class = 'notice notice-error';
-  $message = __( 'WooCommerce Products per Page requires WooCommerce to be installed and active.', 'wpff-woo-products-per-page' );
+  $message = __( 'WPFixFast Products per Page requires WooCommerce to be installed and active.', 'wpff-woo-products-per-page' );
 
   printf( '<div class="%1$s"><p>%2$s</p></div>', esc_attr( $class ), esc_html( $message ) ); 
 }

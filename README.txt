@@ -1,19 +1,19 @@
-=== WC Products Per Page ===
+=== WPFixFast Products per Page ===
 Contributors: wpfixfast
 Donate link: https://wpfixfast.com/
-Tags: woocommerce, products per page, woocommerce products, woocommerce products per page
+Tags: woocommerce, products per page, woocommerce products, woocommerce products per page, wpfixfast
 Requires at least: 4.0.0
-Requires PHP: 7.4
 Tested up to: 6.4.1
+Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Set default number of products displayed per page in WooCommerce shop pages.
+Enables you to adjust the number of products displayed per page in WooCommerce shop pages.
 
 == Description ==
 
-The WooCommerce Products Per Page plugin is a straightforward yet highly beneficial addition to your website, enabling both you to adjust the number of products displayed per page.
+WPFixFast Products Per Page plugin is a straightforward yet highly beneficial addition to your website, enabling you to adjust the number of products displayed per page.
 
 <strong>Easy setup</strong>
 
@@ -48,7 +48,7 @@ YES. This is an add-on only for WooCommerce.
 
 == Screenshots ==
 
-1. This is the settings page within WooCommerce setting area
+1. This is the settings page within WooCommerce settings area
 
 == Changelog ==
 
@@ -58,4 +58,3 @@ YES. This is an add-on only for WooCommerce.
 == Upgrade Notice ==
 
 = 1.0.0 =
-* Initial release
